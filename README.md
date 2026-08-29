@@ -79,9 +79,9 @@ The goal is not just to complete projects, but to understand the concepts behind
 ```
 ---
 
-## 🚧 Current Progress
+# 🚧 Current Progress
 
-# 🌦️ Project 01 — Weather App
+## 🌦️ Project 01 — Weather App
 
 Status: ✅ Completed
 
@@ -97,7 +97,7 @@ Completed concepts:
 * Error handling
 * Loops and user interaction
 
-# 💱 Project 02 — Currency Converter
+## 💱 Project 02 — Currency Converter
 
 Status: 🔨 Next Project
 
