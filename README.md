@@ -117,6 +117,8 @@ Currently learning:
 
 1 / 10 projects completed
 
+```text
+
 🌦️ Weather App
      ✅ COMPLETED
           ↓
@@ -146,6 +148,8 @@ Currently learning:
           ↓
 📊 Personal Finance Dashboard
      ⏳
+     
+```
 
 ---
 
