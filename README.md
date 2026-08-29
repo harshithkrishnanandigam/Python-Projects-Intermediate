@@ -77,24 +77,77 @@ The goal is not just to complete projects, but to understand the concepts behind
         ↓
 📊 Data Analysis & Visualization
 ```
+---
 
-## 🚧 Current Progress
+🚧 Current Progress
 
-### 🌦️ Project 01 — Weather App
+🌦️ Project 01 — Weather App
 
-**Status:** 🔨 In Progress
+Status: ✅ Completed
+
+Completed concepts:
+
+* "requests"
+* REST APIs
+* JSON responses
+* Nested dictionaries
+* Geocoding
+* Functions and parameters
+* Return values
+* Error handling
+* Loops and user interaction
+
+💱 Project 02 — Currency Converter
+
+Status: 🔨 Next Project
 
 Currently learning:
 
-* 📡 `requests`
-* 🌐 REST APIs
-* 📄 JSON responses
-* 🗂️ Nested dictionaries
-* 📍 Geocoding
-* 🔧 Functions and parameters
-* ↩️ Return values
-* 🛡️ Error handling
-* 🔄 Loops and user interaction
+* API integration
+* JSON data handling
+* Currency conversion
+* User input validation
+* Functions
+* Error handling
+* Working with API responses
+
+---
+
+📊 Progress
+
+1 / 10 projects completed
+
+🌦️ Weather App
+     ✅ COMPLETED
+          ↓
+💱 Currency Converter
+     🔨 NEXT
+          ↓
+📰 News App
+     ⏳
+          ↓
+📂 File Organizer V2
+     ⏳
+          ↓
+💰 Expense Tracker V2
+     ⏳
+          ↓
+🔐 Password Manager
+     ⏳
+          ↓
+🕷️ Web Scraper
+     ⏳
+          ↓
+🖥️ System Monitor
+     ⏳
+          ↓
+🛠️ CLI Productivity Tool
+     ⏳
+          ↓
+📊 Personal Finance Dashboard
+     ⏳
+
+---
 
 ## 🎯 Goal
 
