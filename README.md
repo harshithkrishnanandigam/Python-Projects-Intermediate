@@ -97,20 +97,26 @@ Completed concepts:
 * Error handling
 * Loops and user interaction
 
-## 💱 Project 02 — Currency Converter
+##💱 Project 02 — Currency Converter
 
-Status: 🔨 Next Project
+Status: ✅ Completed
 
-Currently learning:
+Completed concepts:
 
 * API integration
-* JSON data handling
-* Currency conversion
-* User input validation
+* Live currency exchange rates
+* Dictionaries
 * Functions
-* Error handling
-* Working with API responses
-
+* Loops
+* JSON data handling
+* JSON file handling
+* json.load()
+* json.dump()
+* File handling
+* User input validation
+* API error handling
+* Conversion history
+  
 ---
 
 ## 📊 Progress
@@ -123,10 +129,10 @@ Currently learning:
      ✅ COMPLETED
           ↓
 💱 Currency Converter
-     🔨 NEXT
+     ✅ COMPLETED
           ↓
 📰 News App
-     ⏳
+     🔨 NEXT
           ↓
 📂 File Organizer V2
      ⏳
