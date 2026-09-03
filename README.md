@@ -77,9 +77,7 @@ The goal is not just to complete projects, but to understand the concepts behind
         ↓
 📊 Data Analysis & Visualization
 ```
----
-
-# 🚧 Current Progress
+---## 🚧 Current Progress
 
 ## 🌦️ Project 01 — Weather App
 
@@ -87,7 +85,7 @@ Status: ✅ Completed
 
 Completed concepts:
 
-* "requests"
+* `requests`
 * REST APIs
 * JSON responses
 * Nested dictionaries
@@ -97,7 +95,7 @@ Completed concepts:
 * Error handling
 * Loops and user interaction
 
-##💱 Project 02 — Currency Converter
+## 💱 Project 02 — Currency Converter
 
 Status: ✅ Completed
 
@@ -110,21 +108,39 @@ Completed concepts:
 * Loops
 * JSON data handling
 * JSON file handling
-* json.load()
-* json.dump()
+* `json.load()`
+* `json.dump()`
 * File handling
 * User input validation
 * API error handling
 * Conversion history
-  
+
+## 📰 Project 03 — News App
+
+Status: ✅ Completed
+
+Completed concepts:
+
+* API integration
+* `requests`
+* REST APIs
+* JSON data handling
+* Working with API responses
+* User input
+* Topic-based searching
+* Filtering news results
+* Handling API errors
+* Exception handling
+* Working with lists and dictionaries
+* Building a practical CLI application
+
 ---
 
 ## 📊 Progress
 
-1 / 10 projects completed
+**3 / 10 projects completed**
 
 ```text
-
 🌦️ Weather App
      ✅ COMPLETED
           ↓
@@ -132,10 +148,10 @@ Completed concepts:
      ✅ COMPLETED
           ↓
 📰 News App
-     🔨 NEXT
+     ✅ COMPLETED
           ↓
 📂 File Organizer V2
-     ⏳
+     🔨 NEXT
           ↓
 💰 Expense Tracker V2
      ⏳
@@ -154,7 +170,6 @@ Completed concepts:
           ↓
 📊 Personal Finance Dashboard
      ⏳
-     
 ```
 
 ---
