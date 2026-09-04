@@ -134,11 +134,39 @@ Completed concepts:
 * Working with lists and dictionaries
 * Building a practical CLI application
 
+## 📂 Project 04 — File Backup Tool
+
+Status: ✅ Completed
+
+Completed concepts:
+
+* ⚙️ Automation
+* 📁 File handling
+* `pathlib`
+* `Path`
+* `Path.exists()`
+* `Path.iterdir()`
+* `Path.rglob()`
+* `Path.relative_to()`
+* File and folder paths
+* Recursive directory traversal
+* 🗂️ Preserving folder structure
+* `shutil`
+* `shutil.copy2()`
+* `mkdir()`
+* `parents=True`
+* `exist_ok=True`
+* User input
+* Error handling
+* Backup progress messages
+* Automated backup folder naming
+* Building a practical file backup tool
+
 ---
 
 ## 📊 Progress
 
-**3 / 10 projects completed**
+**4 / 10 projects completed**
 
 ```text
 🌦️ Weather App
@@ -150,11 +178,11 @@ Completed concepts:
 📰 News App
      ✅ COMPLETED
           ↓
-📂 File Organizer V2
-     🔨 NEXT
+📂 File Backup Tool
+     ✅ COMPLETED
           ↓
 💰 Expense Tracker V2
-     ⏳
+     🔨 NEXT
           ↓
 🔐 Password Manager
      ⏳
@@ -171,7 +199,6 @@ Completed concepts:
 📊 Personal Finance Dashboard
      ⏳
 ```
-
 ---
 
 ## 🎯 Goal
