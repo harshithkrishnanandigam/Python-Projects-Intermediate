@@ -77,7 +77,9 @@ The goal is not just to complete projects, but to understand the concepts behind
         ↓
 📊 Data Analysis & Visualization
 ```
----## 🚧 Current Progress
+---
+
+# 🚧 Current Progress
 
 ## 🌦️ Project 01 — Weather App
 
